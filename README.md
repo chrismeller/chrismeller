@@ -1,6 +1,6 @@
 ### Howdy 👋
 
-Hi, I'm Chris, and I'm a backend C# and Typescript (Node) developer. I spend most of my time at work writing distributed processes to handle complex workflows and large amounts of data. At home I'm usually writing code to harvest data or developing small apps and hardware projects to make something easier for me. So far none of them have been helpful to anyone else, but I can dream, right?
+Hi, I'm Chris, and I'm a backend C# and NodeJS Typescript developer. I spend most of my time at work writing distributed processes to handle complex workflows and large amounts of data. At home I'm usually writing code to harvest data or developing small apps and hardware projects to make something easier for me. So far none of them have been helpful to anyone else, but I can dream, right?
 
 [Once](https://github.com/chrismeller/fourchan-monitor) or [twice](https://github.com/chrismeller/StarbucksScraper) that's been (politely) polling an API. [More](https://github.com/chrismeller/SCSpendingTransparency) often [it involves](https://github.com/chrismeller/SCCourtOpinionsSharp) page [scraping](https://github.com/chrismeller/SCFoodScores) a [government website](https://github.com/chrismeller/schptrafficinfo) or [two](https://github.com/chrismeller/SLEDHelicopter), sometimes [even with](https://github.com/chrismeller/SCAlcoholLicenses) Selenium, to provide data in the format it should have been made available in all along.
 
